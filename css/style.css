@@ -1,0 +1,155 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    position: relative;
+}
+
+.cities{
+    font-size: 16px;
+    background-color: red;
+    color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+.cities option{
+    background-color: white;
+    color: black;
+}
+
+.languages{
+    font-size: 16px;
+    background-color: red;
+    color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+.languages option{
+    background-color: white;
+}
+
+.news-scroll{
+    width: 500px;
+    font-size: 16px;
+}
+
+.news-scroll a{
+    text-decoration: none;
+    color: white;
+}
+
+.nav-bar{
+    text-decoration: none;
+    margin-right: 15px;
+    color: #000000;
+    font-size: 16px;
+}
+
+.pick-course{
+    font-size: 40px;
+    width: 700px;
+}
+
+.course-name a{
+    text-decoration: none;
+    color: #02395A;
+}
+
+.syllabus-mentor{
+    margin: auto;
+}
+
+.mrk-1 {
+    background-color: white;
+    color: red;
+}
+
+.text2 {
+    font-size: 40px;
+}
+
+.text-3 {
+    font-size: 16px;
+    list-style: none;
+}
+
+.text-4 {
+    font-size: 30px;
+}
+
+.mrk-2 {
+    color: #343f52;
+    background-color: white;
+}
+
+.text-5 {
+    font-size: 16px;
+    list-style: none;
+
+}
+
+
+.career-courses {
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+}
+
+.career-section{
+    margin: auto;
+}
+
+.trending-courses {
+    text-decoration: none;
+    color: black;
+    margin: auto;
+
+}
+
+.global-sec{
+    margin: auto;
+}
+
+
+.infras-1 {
+    font-size: 14px;
+}
+
+.review-sec{
+    margin: auto;
+}
+
+.foot {
+    color: white;
+    
+}
+
+.foot {
+    background-color: #212529;
+}
+
+.list-2 {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-size: 18px;
+}
+
+.list-3 {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-size: 18px;
+}
+.list-5{
+    text-align: center;
+    color: #ffffff;
+    font-size: 15px;
+}
+.foot-2{
+    background-color: #262b32;
+}
